@@ -5,7 +5,7 @@
 
 ## I'm Jason
 
-###### ***Azure Advocate*** | ***Git Neophyte*** | ***A Simple Country Cloud Engineer***
+###### ***Azure Advocate*** | ***Tech Neophyte*** | ***A Simple Country Cloud Engineer***
 
 ### Currently documenting my journey as a Cloud Security Engineer!!!
 
